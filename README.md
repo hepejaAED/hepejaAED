@@ -28,7 +28,7 @@ I enjoy working with data to extract insights and build intelligent systems that
 ### 📰 Clickbait Detection (NLP)
 - Built a classification model to detect clickbait in news headlines  
 - Applied NLP techniques and transformer-based models  
-- [View Project](LINK)
+- [View Project](https://github.com/hepejaAED/ProyectoNLP)
 
 ---
 
